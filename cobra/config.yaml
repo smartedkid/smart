@@ -1,0 +1,9 @@
+MysqlConfig:
+  Host: "127.0.0.1"
+  Port: 3306
+  User: "root"
+  Password: "root"
+  Db: "mxshop_goods_srv"
+EsConfig:
+  Host: "http://127.0.0.1"
+  Port: 9201
